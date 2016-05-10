@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Curabitur at lacus ac velit ornare lobortis. Pellentesque posuere. Quisque malesuada placerat nisl. Etiam ut purus mattis mauris sodales aliquam.\n\nProin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Nulla sit amet est. Integer tincidunt. Fusce vulputate eleifend sapien.\n\nCurabitur blandit mollis lacus. Pellentesque dapibus hendrerit tortor. Praesent congue erat at massa. Vivamus elementum semper nisi.\n\nEtiam ultricies nisi vel augue. Praesent ac massa at ligula laoreet iaculis. Donec sodales sagittis magna. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo.\_Curabitur at lacus ac velit ornare lobortis. Pellentesque posuere. Quisque malesuada placerat nisl. Etiam ut purus mattis mauris sodales aliquam.\n\nProin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Nulla sit amet est. Integer tincidunt. Fusce vulputate eleifend sapien.\n\nCurabitur blandit mollis lacus. Pellentesque dapibus hendrerit tortor. Praesent congue erat at massa. Vivamus elementum semper nisi.\n\nEtiam ultricies nisi vel augue. Praesent ac massa at ligula laoreet iaculis. Donec sodales sagittis magna. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo."
-datePublished: '2016-05-10T16:57:56.433Z'
-dateModified: '2016-05-10T16:55:38.569Z'
+datePublished: '2016-05-10T17:00:05.882Z'
+dateModified: '2016-05-10T16:59:56.401Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-10-curabitur-at-lacus-ac-velit-ornare-lobortis-pellentesque-po.md
+starred: true
 url: curabitur-at-lacus-ac-velit-ornare-lobortis-pellentesque-po/index.html
 _type: Article
 
