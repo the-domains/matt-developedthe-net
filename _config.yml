@@ -1,0 +1,28 @@
+name: Matt.DevelopedThe.Net
+favicon: null
+layout_spectrum: 0.41303715016692877
+typography_spectrum: 0.056175910867750645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8155193286947906
+  lightness: 0.588287785416469
+  saturation: 0.045347640523687005
+  rhythmicContrast: 0.5314009131398052
+purpose: []
