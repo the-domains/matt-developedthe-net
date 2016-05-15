@@ -1,7 +1,7 @@
 name: Matt.DevelopedThe.Net
 favicon: null
-layout_spectrum: 0.22794
-typography_spectrum: 0.04883
+layout_spectrum: 0
+typography_spectrum: 0.63457
 title: Matt Developes the .net
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fcfcfc'
-    - '#6b6162'
-    - '#362c2d'
-    - '#afa3a3'
-    - '#117a8c'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#ffbc42'
+    - '#d81159'
+    - '#218380'
+    - '#ea614d'
+  brandStrength: 1
   lightness: 1
   saturation: 0
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 purpose: []
